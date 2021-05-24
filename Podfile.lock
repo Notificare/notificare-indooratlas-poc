@@ -1,0 +1,20 @@
+PODS:
+  - IndoorAtlas (3.4.4)
+  - notificare-push-lib (2.6.0)
+
+DEPENDENCIES:
+  - IndoorAtlas (= 3.4.4)
+  - notificare-push-lib (~> 2.6)
+
+SPEC REPOS:
+  trunk:
+    - IndoorAtlas
+    - notificare-push-lib
+
+SPEC CHECKSUMS:
+  IndoorAtlas: 47a4f7d0b0329ed715ac7246a2baa4c32bc3789d
+  notificare-push-lib: 8da60d617c8e74e7f160758ed6c540ff8501eb01
+
+PODFILE CHECKSUM: cd1f5dbd11f870b18b9aa3c6ba668496f0354ff3
+
+COCOAPODS: 1.10.1

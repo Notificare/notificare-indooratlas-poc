@@ -1,0 +1,11 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Inbox' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Inbox
+  pod 'notificare-push-lib', '~> 2.6'
+  pod 'IndoorAtlas', '3.4.4'
+end
